@@ -3,7 +3,7 @@
 Голубев Иван Игоревич 5132704/30801
 
 ## Quick Start. 
-1. Убать .example
+1. Убрать .example
  `.env.example -> .env` 
 2. Из корневой директории собрать командой 
 ```docker compose up --build```
