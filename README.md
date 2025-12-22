@@ -1,4 +1,4 @@
-# my-fastapi-project-with-postgresql-docker
+# Мой FastAPI проект с PostgreSQL и docker
 
 Голубев Иван Игоревич 5132704/30801
 
